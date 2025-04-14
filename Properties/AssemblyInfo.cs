@@ -10,7 +10,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration(".NET 6")]
 [assembly: AssemblyCompany("Solutions Design bv")]
 [assembly: AssemblyProduct("LLBLGen Pro")]
-[assembly: AssemblyCopyright("Copyright ©2023 Solutions Design bv")]
+[assembly: AssemblyCopyright("Copyright ©2025 Solutions Design bv")]
 [assembly: AssemblyTrademark("LLBLGen and LLBLGen Pro are trademarks of Solutions Design bv.")]
 [assembly: AssemblyCulture("")]
 
@@ -32,5 +32,5 @@ using System.Runtime.InteropServices;
 // You can specify all the values or you can default the Build and Revision Numbers 
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("5.11.0.0")]
-[assembly: AssemblyFileVersion("5.11.0")]
+[assembly: AssemblyVersion("5.12.0.0")]
+[assembly: AssemblyFileVersion("5.12.0")]
